@@ -13,7 +13,7 @@ public class TrafficLight {
         frame.setSize(500, 250);
         buttonGroup = new ButtonGroup();
         radioButton = new JRadioButton("TestButton");
-        frame.add(buttonGroup);
+        //frame.add(buttonGroup);
 
         frame.setVisible(true);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
