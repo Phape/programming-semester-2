@@ -79,15 +79,11 @@ public class ListeDL<T> {
   
   public String toString() {
     String s = "(";
-
-    ElementDL<T> help = head;
-    while (help != null && help.next != null) {
-      s += help.element + ", ";
-      help = help.next;
-    }
-    if (help != null)
-      s = s + help.element;
- 
+     ElementDL<T> help = head;
+     while (help != null) {
+         s += help.element + ", ";
+         help = help.next;
+     }
     return s + ")";
   }
 
