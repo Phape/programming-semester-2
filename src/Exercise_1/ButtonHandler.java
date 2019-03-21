@@ -1,4 +1,4 @@
-package Aufgabe_1;
+package Exercise_1;
 
 import java.awt.*;
 import java.awt.event.ActionEvent;

@@ -1,4 +1,4 @@
-package Aufgabe_3;
+package Exercise_3;
 
 import javax.swing.*;
 import java.awt.*;
