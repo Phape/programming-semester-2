@@ -19,7 +19,7 @@ public class BlinkButton extends JButton implements Runnable {
             }
             catch (InterruptedException iex) {}
             String s = this.getText();
-            this.setText(switchText);
+            this.setText(switchText);//
             switchText = s;
         }
 
