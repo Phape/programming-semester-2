@@ -1,6 +1,4 @@
-package AlgoDatSheet4;
-
-import com.sun.xml.internal.bind.v2.model.core.Element;
+package AlgoDatSheet4; //Assignment Nr. 7
 
 public class ListeL<I extends Comparable<I>> {
 
