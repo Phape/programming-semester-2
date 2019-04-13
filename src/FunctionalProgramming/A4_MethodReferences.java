@@ -17,7 +17,7 @@ public class A4_MethodReferences {
                 return "";
             else
                 return z;
-        });
+        }); //ALTERNAtIVELY: characters.replaceAll(s -> s == null ? "" : s)
 // Wandeln Sie alle Buchstaben in Großbuchstaben um
         characters.replaceAll(String::toUpperCase);
 // Sortieren Sie die Elemente gemäß dem Alphabet
