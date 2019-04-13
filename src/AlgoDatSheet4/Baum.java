@@ -96,6 +96,6 @@ public class Baum {
 		System.out.println("Max (iterativ): " + b.maxIt());
         System.out.println("Max (rekursiv): " + b.max());
         System.out.println("Min (rekursiv): " + b.min());
-       // System.out.println("Postorder Liste: " + b.toPostorder());
+        System.out.println("Postorder Liste: " + b.toPostorder());
     }
 }
