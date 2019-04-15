@@ -1,4 +1,4 @@
-package FunctionalProgramming; //sheet 2 ex. 3
+package FunctionalProgramming.ExerciseSheet2; //sheet 2 ex. 3
 
 import java.util.Arrays;
 import java.util.Comparator;

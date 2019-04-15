@@ -1,4 +1,4 @@
-package FunctionalProgramming; //slidesPack 2 - A2
+package FunctionalProgramming.SlidesAssignments; //slidesPack 2 - A2
 
 import java.util.function.UnaryOperator;
 

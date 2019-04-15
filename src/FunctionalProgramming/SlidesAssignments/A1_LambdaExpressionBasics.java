@@ -1,4 +1,4 @@
-package FunctionalProgramming; //slidesPack 2 - A1
+package FunctionalProgramming.SlidesAssignments; //slidesPack 2 - A1
 
 import java.util.Arrays;
 import java.util.List;

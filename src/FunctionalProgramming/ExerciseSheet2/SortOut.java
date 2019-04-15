@@ -1,4 +1,4 @@
-package FunctionalProgramming; //sheet 2 ex.1
+package FunctionalProgramming.ExerciseSheet2; //sheet 2 ex.1
 
 public class SortOut {
 
