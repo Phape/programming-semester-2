@@ -1,4 +1,4 @@
-package AlgoDatSheet4;
+package AlgoDat.Sheet_4;
 
 import Prog1Tools.IOTools;
 

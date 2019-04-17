@@ -7,7 +7,7 @@ public class Streams_7 {
     public static void main(String[] args) {
         OptionalDouble avg = IntStream.range(1, 100).average();
 
-        if () {//something like optional is empty
+        if (true) {//something like optional is empty
             System.out.println("Calculation went wrong");
         }
 

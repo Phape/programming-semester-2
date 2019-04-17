@@ -1,4 +1,4 @@
-package AlgoDatSheet4; //Assignment Nr. 7
+package AlgoDat.Sheet_4; //Assignment Nr. 7
 
 public class ListeL<I extends Comparable<I>> {
 
