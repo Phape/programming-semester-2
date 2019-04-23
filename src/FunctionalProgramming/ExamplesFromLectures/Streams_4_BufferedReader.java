@@ -2,7 +2,7 @@ package FunctionalProgramming.ExamplesFromLectures;
 
 import java.io.*;
 
-public class Streams_4 {
+public class Streams_4_BufferedReader {
 
     public static void main(String[] args) {
         try {
