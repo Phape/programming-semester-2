@@ -1,4 +1,4 @@
-package Exercise_5;
+package Programming2.Exercise_5;
 
 public class EuroConverter {
   // Waehrungs-Kennungen

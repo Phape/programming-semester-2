@@ -1,4 +1,4 @@
-package Exercise_13;
+package Programming2.Exercise_13;
 
 class KonzertDaten {
     private int sitzPlatz = 0;

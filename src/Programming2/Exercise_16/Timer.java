@@ -1,10 +1,9 @@
-package Exercise_16; //Sheet 5
+package Programming2.Exercise_16; //Sheet 5
 
 import Prog1Tools.IOTools;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
-import java.util.Scanner;
 
 public class Timer extends Thread {
 

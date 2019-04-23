@@ -1,11 +1,11 @@
-package Exercise_2;
+package Programming2.Exercise_2;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.Date;
 
-import static Exercise_2.TimeGui.chosenDateFormat;
+import static Programming2.Exercise_2.TimeGui.chosenDateFormat;
 
 public class ButtonListener implements ActionListener {
 

@@ -1,4 +1,4 @@
-package Exercise_13;
+package Programming2.Exercise_13;
 
 class KartenTerminal extends Thread {
     private KonzertDaten daten;

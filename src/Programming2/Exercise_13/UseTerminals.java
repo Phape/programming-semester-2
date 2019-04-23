@@ -1,4 +1,4 @@
-package Exercise_13;
+package Programming2.Exercise_13;
 
 public class UseTerminals {
     public static void main(String[] args) {
