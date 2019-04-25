@@ -4,7 +4,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionListener;
 
-/*
+
 public class ClientGUI {
     static String weather;
 
@@ -14,9 +14,12 @@ public class ClientGUI {
 
 
     public static void main(String[] args) {
+        Font myFont = new Font("Arial", Font.PLAIN, 40);
         JFrame frame = new JFrame();
         JButton b1 = new JButton();
         JButton b2 = new JButton();
+        b1.setFont(myFont);
+        b2.setFont(myFont);
         frame.setLayout(new GridLayout(1,2));
         frame.add(b1);
         frame.add(b2);
@@ -44,5 +47,5 @@ public class ClientGUI {
         b2.addActionListener(listener2);
     }
 }
-*/
+
 
