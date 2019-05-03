@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ClientGUI",
+            "request": "launch",
+            "mainClass": "FunctionalProgramming.ExamplesFromLectures.ClientGUI",
+            "projectName": "programmingSemester2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Streams_3",
+            "request": "launch",
+            "mainClass": "FunctionalProgramming.ExamplesFromLectures.Streams_3",
+            "projectName": "programmingSemester2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Streams_6",
+            "request": "launch",
+            "mainClass": "FunctionalProgramming.ExamplesFromLectures.Streams_6",
+            "projectName": "programmingSemester2"
+        }
+    ]
+}
